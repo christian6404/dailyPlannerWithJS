@@ -1,10 +1,14 @@
 # javaScriptTimedQuiz
 a timed quiz on java script that takes time away every time you miss a question and has a local leaderboard at the end of the quiz
 
+
+https://github.com/christian6404/dailyPlannerWithJS
+
+---OLD LINK TO LAST GITHUB THAT BROKE---
 https://github.com/christian6404/javaScriptTimedQuiz
 
 
-![Screenshot](./assets/screenshot.png "Screenshot of livesite")
+![Screenshot](./Assets/screenshot.png "Screenshot of livesite")
 
  # Contact
  Christian Smith
